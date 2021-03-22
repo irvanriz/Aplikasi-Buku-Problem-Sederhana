@@ -1,2 +1,2 @@
-# aplikasi-lembur-minimalis
+# Aplikasi-Buku-Problem-Sederhana
 Contoh Aplikasi CRUD Minimalis
