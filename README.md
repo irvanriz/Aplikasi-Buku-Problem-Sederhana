@@ -1,2 +1,2 @@
-# Aplikasi-Buku-Problem-Sederhana
+# Aplikasi-Log-Problem-Sederhana
 Contoh Aplikasi CRUD Minimalis
